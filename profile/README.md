@@ -12,10 +12,6 @@
 | **[koishi-plugin-rolecard](https://github.com/OppenApps/koishi-plugin-rolecard)** | 数据驱动的角色台词引擎，引擎与角色卡完全解耦，新增角色无需改源码 | MIT |
 | **[koishi-plugin-feature-tester](https://github.com/OppenApps/koishi-plugin-feature-tester)** | 用于测试特性的小插件 | MIT |
 
-### 交流与反馈
-
-遇到问题或有建议，欢迎加入 QQ 群 **[1071284605](https://qm.qq.com/q/WngX4RQoca)**。
-
 ### 许可证
 
 各仓库许可见上表；未特别注明者为 MIT。
